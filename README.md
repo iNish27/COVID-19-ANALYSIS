@@ -62,6 +62,19 @@ After thorough analysis, the following insights were uncovered:
 | `covid_death.csv`   | Dataset with death conditions and contributing factors. | [Download](https://github.com/iNish27/COVID-19-ANALYSIS/blob/main/coviddeath.csv)    |
 
 ---
+## 📓 Project Notebook
+
+You can view the complete Jupyter Notebook here:
+
+🔗 [Covid 19 Python Plotly Project.ipynb](https://github.com/iNish27/COVID-19-ANALYSIS/blob/main/Covid%2019%20Python%20Plotly%20Project.ipynb)
+
+This notebook includes:
+- Data loading and cleaning steps
+- Exploratory data analysis (EDA)
+- Visualizations using Plotly and Matplotlib
+- Key insights and conclusions
+
+---
 
 ## 🚀 How to Run the Project
 
